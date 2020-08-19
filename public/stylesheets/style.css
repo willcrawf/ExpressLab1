@@ -1,5 +1,7 @@
 body {
   padding: 50px;
+  color: red;
+  text-align: center;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
@@ -7,6 +9,12 @@ a {
   color: #00B7FF;
 }
 
-body {
-  display: grid;
+ul {
+  list-style: none;
+  padding: 5px;
+  
+}
+
+li{
+  padding: 10px;
 }
